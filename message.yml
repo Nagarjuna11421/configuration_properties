@@ -1,0 +1,21 @@
+text:
+  message: Nagarjuna you got it
+spring:
+  application:
+    name: Message-API
+  boot:
+    admin:
+      client:
+        url: http://localhost:1122/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+# To config this client to eureka server/service registry if service registry port is other than 8761
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
