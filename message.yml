@@ -1,5 +1,5 @@
 text:
-  message: Nagarjuna you got it, and Fucked it and cracked it
+  message: Spring Cloud Config server done, properties loaded from git repo
 spring:
   application:
     name: Message-API
