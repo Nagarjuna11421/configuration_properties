@@ -1,5 +1,5 @@
 text:
-  message: close this config server and learn Circuit Breaker
+  message: close this config
 spring:
   application:
     name: Message-API
