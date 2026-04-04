@@ -1,5 +1,5 @@
 text:
-  message: Spring Cloud Config server done, properties loaded from git repo
+  message: close this config server and learn Circuit Breaker
 spring:
   application:
     name: Message-API
