@@ -1,2 +1,13 @@
 text:
     message: Good Nagarjuna, thiis config server approach
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
+management:
+  endpoints:
+    web:
+      exposure:
+        exclude: refresh
