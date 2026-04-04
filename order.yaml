@@ -1,13 +1,13 @@
 text:
-    message: Good Nagarjuna,
+    message: Good Nagarjuna, this is cloud config server
     
 management:
   endpoints:
     web:
       exposure:
         include: '*'
-# management:
-#   endpoints:
-#     web:
-#       exposure:
-#         exclude: refresh
+management:
+  endpoints:
+    web:
+      exposure:
+        exclude: refresh
