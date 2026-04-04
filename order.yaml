@@ -1,5 +1,5 @@
 text:
-    message: Good Nagarjuna, this is cloud config server
+    message: Good Nagarjuna, this is cloud config server:: praaaaaaaaaaactice with config server is completed
     
 management:
   endpoints:
