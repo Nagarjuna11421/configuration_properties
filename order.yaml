@@ -6,8 +6,8 @@ management:
     web:
       exposure:
         include: *
-management:
-  endpoints:
-    web:
-      exposure:
-        exclude: refresh
+# management:
+#   endpoints:
+#     web:
+#       exposure:
+#         exclude: refresh
