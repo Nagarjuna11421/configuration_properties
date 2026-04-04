@@ -1,5 +1,5 @@
 text:
-    message: Good Nagarjuna, thiis config server approach
+    message: Good Nagarjuna, refresh endpoint disabled
     
 management:
   endpoints:
